@@ -1,5 +1,5 @@
 
-## TO DO LIST
+## TO DO LIST(not in particular order)
 
 - [ ] yolov3 implementation  
 - [ ] reimplement caffe framework(cpp)
